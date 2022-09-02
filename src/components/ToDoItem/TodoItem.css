@@ -1,0 +1,20 @@
+.todo-item {
+    
+    width: 100%;
+    border: 1px solid grey;
+    display: flex;
+    justify-content: space-between;
+}
+
+.todo-remove {
+    width: 20px;
+    height: 20px;
+    margin:auto;
+    border-radius: 10px;
+    border:none
+}
+.todo-title {
+    display:inline-block;
+    width: 79%;
+    margin-left: 5px;
+}

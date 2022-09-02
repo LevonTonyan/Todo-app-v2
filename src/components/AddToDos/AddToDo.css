@@ -1,0 +1,12 @@
+.addToDoField {
+    width: 100%;
+}
+.addToDoField input {
+    width: 83%;
+    height: 30px;
+}
+
+.addToDoField button {
+    height: 36px;
+    margin-left: 1px;
+}
